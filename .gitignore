@@ -1,0 +1,17 @@
+# Secrets and API Keys (NEVER commit these to public GitHub)
+.env
+.env.*
+*.local
+chat-key.js
+config.local.js
+*-key.js
+
+# Node / Dependencies
+node_modules/
+npm-debug.log*
+
+# System and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
