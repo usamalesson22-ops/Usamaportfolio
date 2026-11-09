@@ -132,7 +132,7 @@
     },
     {
       keywords: ["contact", "hire", "whatsapp", "phone", "number", "email", "reach", "message", "call", "instagram", "tiktok"],
-      response: "📞 <strong>Get in touch directly with Muhammad Usama:</strong><br><br><ul><li>💬 <strong>WhatsApp:</strong> <a href='https://wa.me/923373359602' target='_blank' style='color:#25D366;font-weight:700;'>+92 337 3359602</a> (fastest response)</li><li>✉️ <strong>Email:</strong> <a href='mailto:usamaservices4@gmail.com' style='color:#FFA592;'>usamaservices4@gmail.com</a></li><li>📸 <strong>Instagram:</strong> <a href='https://www.instagram.com/usam_agraphics/' target='_blank' style='color:#FF4D2E;'>@usam_agraphics</a></li><li>🎵 <strong>TikTok:</strong> <a href='https://www.tiktok.com/@usamagraphics4' target='_blank' style='color:#FF4D2E;'>@usamagraphics4</a></li><li>💼 <strong>Upwork:</strong> <a href='https://www.upwork.com/freelancers/~01fdb7501955a15e95' target='_blank' style='color:#14A800;'>Hire on Upwork</a></li></ul>",
+      response: "📞 <strong>Get in touch directly with Muhammad Usama:</strong><br><br><ul><li>💬 <strong>WhatsApp:</strong> <a href='https://wa.me/923373359602' target='_blank' style='color:#25D366;font-weight:700;'>+92 337 3359602</a> (fastest response)</li><li>✉️ <strong>Email:</strong> <a href='mailto:usamaservices4@gmail.com' style='color:#FFA592;'>usamaservices4@gmail.com</a></li><li>📸 <strong>Instagram:</strong> <a href='https://www.instagram.com/usam_agraphics/' target='_blank' style='color:#FF4D2E;'>@usam_agraphics</a></li><li>🎵 <strong>TikTok:</strong> <a href='https://www.tiktok.com/@usamagraphicx4' target='_blank' style='color:#FF4D2E;'>@usamagraphicx4</a></li><li>💼 <strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/usama-graphics-601497447/' target='_blank' style='color:#0A66C2;'>Connect on LinkedIn</a></li><li>💼 <strong>Upwork:</strong> <a href='https://www.upwork.com/freelancers/~01fdb7501955a15e95' target='_blank' style='color:#14A800;'>Hire on Upwork</a></li></ul>",
       buttons: [
         { text: "💬 Open WhatsApp Chat Now", url: "https://wa.me/923373359602?text=Hi%20Usama%2C%20I%20want%20to%20discuss%20a%20project%20from%20your%20website." },
         { text: "✉️ Send Direct Email", url: "mailto:usamaservices4@gmail.com?subject=Project%20Inquiry" }
@@ -471,7 +471,7 @@
         "- Graphic Design: Social media posts, carousels, logos, branding packages, posters.\n" +
         "- Sleek Modern Websites: Mobile-friendly, high performance, interactive animations, portfolio & business landing pages.\n" +
         "Pricing & Revisions: Affordable and creator/student-friendly pricing. Unlimited revisions until 100% satisfied.\n" +
-        "Contact info: WhatsApp: +92 337 3359602, Email: usamaservices4@gmail.com, Instagram: @usam_agraphics, TikTok: @usamagraphics4.\n" +
+        "Contact info: WhatsApp: +92 337 3359602, Email: usamaservices4@gmail.com, Instagram: @usam_agraphics, TikTok: @usamagraphicx4, LinkedIn: https://www.linkedin.com/in/usama-graphics-601497447/.\n" +
         "Keep responses punchy, concise, formatted with emojis, bold text, and bullet points.";
 
       // Candidate models: gemini-3.5-flash is stable and instant, with fallbacks

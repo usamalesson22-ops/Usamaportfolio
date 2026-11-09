@@ -42,7 +42,7 @@ CONTACT DETAILS:
 - WhatsApp: +92 337 3359602 (Direct link: https://wa.me/923373359602)
 - Email: usamaservices4@gmail.com
 - Instagram: @usam_agraphics (https://www.instagram.com/usam_agraphics/)
-- TikTok: @usamagraphics4 (https://www.tiktok.com/@usamagraphics4)
+- TikTok: @usamagraphicx4 (https://www.tiktok.com/@usamagraphicx4)
 - LinkedIn: https://www.linkedin.com/in/usama-graphics-601497447/
 - Upwork: Muhammad Usama
 
